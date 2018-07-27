@@ -29,6 +29,11 @@ y=[  -2.12004,   -2.05388,   -4.87116,   -8.18968,  -12.832  ,
 a=lsfc(x,y)
 xy,R,sigma=a.findit()
 
+'''
+xy= [  376.29651402 -6192.82407154]
+R= 6204.181252052207
+sigma= 0.17203255234689047
+'''
 
 # we can also use the compact way as
 xy,R,sigma=lsfc(x,y).findit()
