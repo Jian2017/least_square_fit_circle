@@ -1,8 +1,8 @@
 # least_square_fit_circle
 
-## find the best fitting circle
-## input N points list x and list y
-## output x-center, y-center, Radius, error
+find the best fitting circle
+input: N points list x and list y
+output: x-center, y-center, Radius, error
 ```python
 
 #import the package
